@@ -17,7 +17,7 @@ The project was created using listed technologies and libraries:
 - Jupyter Notebook
 
 ## Table of contents
-* [Introduction in polish](#Introducion in polish)
-* [Introduction in english](#Introduction in english)
-* [Technologies](#Technologies)
+* [Introduction in polish](#introducion-in-polish)
+* [Introduction in english](#introduction-in-english)
+* [Technologies](#technologies)
 
